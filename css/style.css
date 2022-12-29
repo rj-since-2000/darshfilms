@@ -3506,7 +3506,7 @@ a.logo:hover{
 .work-item:hover .work-intro{
     color: #fff; 
     -webkit-transform: translateY(-115px);
-    transform: translateY(-115px);   
+    transform: translateY(-215px);   
     z-index: 3; 
 }
 .work-item:hover .work-title,
